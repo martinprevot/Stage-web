@@ -1,0 +1,26 @@
+
+
+
+.fond{
+  width : 150px;
+  height : 150px;
+}
+
+.container {
+  display: inline-block;
+  position: relative;
+}
+
+.container .text3 {
+  z-index: 1;
+  position: absolute;
+  text-align: end;
+  font-family: Georgia;
+  margin: 0 auto;
+  left: 0;
+  right: 0;
+  top: 20%;
+  color: white;
+  width: 70%;
+}
+
