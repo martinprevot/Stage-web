@@ -1,16 +1,12 @@
-
-
-
-.fond{
-  width : 150px;
-  height : 150px;
+.fond {
+  width: 150px;
+  height: 150px;
 }
 
 .container {
   display: inline-block;
   position: relative;
 }
-
 .container .text3 {
   z-index: 1;
   position: absolute;
@@ -23,4 +19,3 @@
   color: white;
   width: 70%;
 }
-
